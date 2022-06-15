@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IsabelleAnn
 - 👀 I’m interested in becoming a Frontend Web Developer.
 - 🌱 I’m currently learning Web Development through https://www.theodinproject.com/.
+- Here are some of my projects so far:
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
